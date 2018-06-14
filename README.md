@@ -19,7 +19,8 @@ GitHubのIssueで管理しています．1つの不等式に対して1つのissu
 * 機械学習・統計的学習理論
   * 集中不等式
     * ~Markov's inequality~
-    * ~Chebyshev's inequality（variance ver.,  exponential ver.）~
+    * ~Chebyshev's inequality~
+    * ~Chernoff bound~
     * Bernstein's inequality
     * ~Hoeffding's inequality~
     * Azuma's inequality
