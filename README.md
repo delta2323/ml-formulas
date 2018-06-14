@@ -18,10 +18,10 @@ GitHubのIssueで管理しています．1つの不等式に対して1つのissu
 
 * 機械学習・統計的学習理論
   * 集中不等式
-    * Markov's inequality
-    * Chebyshev's inequality（variance ver.,  exponential ver.）
+    * ~Markov's inequality~
+    * ~Chebyshev's inequality（variance ver.,  exponential ver.）~
     * Bernstein's inequality
-    * Hoeffding's inequality
+    * ~Hoeffding's inequality~
     * Azuma's inequality
     * Talagrand's inequality
     * Gaussian concentration inequality
@@ -30,7 +30,7 @@ GitHubのIssueで管理しています．1つの不等式に対して1つのissu
     * symmetrization
     * maximal inequality
     * Efron-Stein
-    * Entropyのsubadditivity
+    * Sub-additivity of Entropy
     * McDiarmid's inequality
   * Donsker's variational representation of KL divergence
   * log Sobolev inequality
