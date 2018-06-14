@@ -21,8 +21,9 @@ GitHubのIssueで管理しています．1つの不等式に対して1つのissu
     * ~Markov's inequality~
     * ~Chebyshev's inequality~
     * ~Chernoff bound~
-    * Bernstein's inequality
     * ~Hoeffding's inequality~
+    * Bennet's inequality
+    * Bernstein's inequality
     * Azuma's inequality
     * Talagrand's inequality
     * Gaussian concentration inequality
