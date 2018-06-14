@@ -27,10 +27,10 @@ GitHubのIssueで管理しています．1つの不等式に対して1つのissu
     * Gaussian concentration inequality
     * Chaining
     * Sudakov minoration
-    * symmetrization
+    * Symmetrization
     * maximal inequality
-    * Efron-Stein
-    * Sub-additivity of Entropy
+    * Efron-Stein's inequality
+    * Sub-additivity of entropy
     * McDiarmid's inequality
   * Donsker's variational representation of KL divergence
   * log Sobolev inequality
@@ -42,10 +42,10 @@ GitHubのIssueで管理しています．1つの不等式に対して1つのissu
     * Data processing inequality
     * Strong data processing inequality
   * 凸解析
-    * Jensen
+    * Jensen's inequality
     * 種々の双対定理
     * KKT条件 (学習理論のバウンドを出すときに0次最適性よりタイトになる傾向)
-    * Luo--Tseng error bound
+    * Luo-Tseng error bound
     * Lojasiewicz不等式
 * 確率論
   * Slepianの補題
@@ -65,7 +65,7 @@ GitHubのIssueで管理しています．1つの不等式に対して1つのissu
 * 関数解析
   * Holder inequality
   * Sobolev embedding
-  * Fatou
+  * Fatou's lemma
   * 優収束定理
   * 単調収束定理
   * 項別微分
@@ -73,6 +73,8 @@ GitHubのIssueで管理しています．1つの不等式に対して1つのissu
   * Kinchin-type inequality
   * Poincare inequality
 * 線形代数
+  * Min-max theorem
+  * Cauchy's interacing theorem
 * elementaryな不等式
   * 1 + x =< e^x, a^2 + b^2 >= abのような時々使う不等式
 * スペクトル理論
