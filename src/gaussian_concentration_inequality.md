@@ -2,8 +2,8 @@
 
 ## ステートメント
 $X_1, \ldots, X_N$を独立同分布で，各$X_i$は標準正規分布に従うとする．
-$f: \mathbb{R}^N \to \mathbb{R}$を$L$リプシッツ関数とし，$Z=f(X)$とする．
-この時任意の$t>0$に対し，
+$L>0$とし，$f: \mathbb{R}^N \to \mathbb{R}$を$L-$リプシッツ関数とする．
+$Z=f(X)$とした時，任意の$t>0$に対し，
 
 $$
 \mathbb{P}\\{Z -\mathbb{E}Z \geq t \\} \leq e^{-\frac{t^2}{2L^2}}
