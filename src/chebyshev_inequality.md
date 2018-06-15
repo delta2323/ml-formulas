@@ -1,4 +1,4 @@
-# 概要
+# ステートメント
 $X$を確率変数とする，任意の$t>0$に対して
 $$
 \mathbb{P} \\{|X - \mathbb{E}| \geq t\\} \leq \frac{\mathrm{Var}(X)}{t^2}
