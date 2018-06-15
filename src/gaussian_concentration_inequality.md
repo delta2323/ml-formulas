@@ -17,5 +17,5 @@ $$
 * ガウス過程に関する不等式Tsirelson-Ibragimov-Sudakov（TIS）の定理の特別な場合とみなせる．
 
 ## 出典
-Boucheron et al. Concentration inequalities: A Nonasymptotic Theory of Independence (2013)
-Evarist Giné and Richard Nickl, Mathematical Foundations of Infinite-Dimensional Statistical Models (2015)
+* Boucheron et al. Concentration inequalities: A Nonasymptotic Theory of Independence (2013)
+* Evarist Giné and Richard Nickl, Mathematical Foundations of Infinite-Dimensional Statistical Models (2015)
