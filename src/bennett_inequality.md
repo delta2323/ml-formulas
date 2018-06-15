@@ -1,4 +1,6 @@
-# ステートメント
+# Bennettの不等式
+
+## ステートメント
 
 $X_1, \ldots, X_N$を独立な確率変数であり，$\mathbb{E}X_i^2 < \infty$かつ，ある$b > 0$が存在して$X_i < b$ a.s. であると仮定する．$S := \sum_{i=1}^{N} X_i$とすると，任意の$\lambda > 0$に対して，
 
@@ -16,10 +18,10 @@ $$
 
 が成立する．ここで，$h(u) := (1+u)\log (1+u) - u (u>0)$である．
 
-# コメント
+## コメント
 
 * [Hoeffdingの不等式](hoeffding_inequality.md)を使うには，確率変数$X_i$達の値域が両側が抑えられている必要があるが，Bennettの不等式は片側だけ抑えられていれば使える．そのかわり各確率変数の分散が有限でないといけない．
 * 2つ目の不等式は1つ目の不等式と[Chernoff bound](chernoff_bound.md)から導かれる．
 
-# 出典
+## 出典
 Boucheron et al. Concentration inequalities: A Nonasymptotic Theory of Independence (2013)
