@@ -1,4 +1,6 @@
-# ステートメント
+# Markovの不等式
+
+## ステートメント
 
 $X$を非負の確率変数とする，任意の$t> 0$に対して
 
@@ -7,7 +9,7 @@ $$
 $$
 が成り立つ．
 
-# 証明の概要
+## 証明の概要
 任意の$t\geq 0$に対して，
 
 $$
@@ -21,10 +23,10 @@ $$
 
 両辺を$t$で割れば不等式が得られる．
 
-# コメント
+## コメント
 * 集中不等式と呼ばれる類の一連の不等式の出発点となる．
 * Markovの不等式からChebyshevの不等式やExponential版のChebyshevの不等式が示せる．
 * 文献によっては，Chebyshevの不等式のことをMarkovの不等式と呼ぶこともある．
 
-# 出典
+## 出典
 Boucheron et al. Concentration inequalities: A Nonasymptotic Theory of Independence (2013)

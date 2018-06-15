@@ -1,4 +1,6 @@
-# ステートメント
+# Poisson分布の生成母関数とそのCramer変換
+
+## ステートメント
 $X$をパラメータ$v$のポアソン分布とする，$Y=X-v$の生成母関数の対数$\psi_{Y}(\lambda) :=  \mathbb{E} e^{\lambda (Y)}$は
 
 $$
@@ -11,8 +13,8 @@ $$
 $$
 である，ここで$h(u) := (1+u)\log (1+u) - u (u>0)$である．
 
-# コメント
+## コメント
 * [Bennetの不等式](bennett_inequality.md)の証明にこの事実を使える
 
-# 出典
+## 出典
 Boucheron et al. Concentration inequalities: A Nonasymptotic Theory of Independence (2013)
