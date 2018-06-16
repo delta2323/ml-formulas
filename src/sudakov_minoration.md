@@ -23,22 +23,22 @@ $$
 によって定義する．ただし，$Z$ は $d$ 次元の標準正規分布にしたがう確率変数とする．また，$\sup_t$ による可測性の問題はここでは考えないとする．
 
 このとき，任意の $\epsilon > 0$ に対して
-\[
+$$
 w(T) \geq C \epsilon \sqrt{\log M(\epsilon, T, \lVert \cdot \rVert_2)}
-\]
+$$
 が成り立つ．ただし，$C > 0$ は普遍的な定数である．
 
 ## コメント
 
 ガウス過程のsupの期待値を，距離エントロピーを使って下からおさえる不等式である．特に，[Dudleyのエントロピーバウンド](chaining.md)と合わせると，ガウス過程の最大値の期待値は
 $$
-\epsilon \sqrt{\log M(\epsilon, T, d_X)} \lesssim
-\mathbb{E} \sup_{t \in T} X_t \lesssim
-\int_0^\infty \sqrt{\log M(\epsilon, T, d_X)} d \epsilon
+C_1 \epsilon \sqrt{\log M(\epsilon, T, d_X)} \leq
+\mathbb{E} \sup_{t \in T} X_t \leq
+C_2 \int_0^\infty \sqrt{\log M(\epsilon, T, d_X)} d \epsilon
 $$
-のように上下からバウンドできると主張している．直感的には，Dudley積分を幅 $\epsilon \times$ 高さ $\sqrt{\log M(\epsilon, T, d_X)}$ の長方形の面積で近似した形になっている．
+のように上下からバウンドできると主張している．直感的には，Dudley積分を，「幅 $\epsilon$」「高さ $\sqrt{\log M(\epsilon, T, d_X)}$」の長方形の面積で近似した形になっている．
 
-この下界は厳密にいうとタイトではなく，上界と下界にはオーダーの意味でのギャップが生まれる場合がある．このギャップは[generic chaining](generic_chaining.md)と呼ばれる方法を利用することで埋まる．
+Sudakov minorationによる下界はオーダーの意味でタイトではない場合がある．このギャップは[generic chaining](generic_chaining.md)と呼ばれる方法を利用することで埋まる．
 
 ステートメント(b)のように，ガウス幅のオーダーを下から見積もることに役にたつ．
 
