@@ -10,17 +10,21 @@ $T$ の部分集合 $A$ の直径を $\mathrm{diam}(A) = \sup_{s, t \in A} d(s, 
 
 $T$ の分割 $\mathcal{A}$ とは，互いに交わらない $T$ の有限個の部分集合の族 $\mathcal{A} = \\{ A_1, \ldots, A_m \\}$ で，$\bigcup_i A_i = T$ となるものである．$T$ の分割 $\mathcal{A}$ および点 $t \in T$ に対して，$\mathcal{A}(t)$ によって $t$ を含む $\mathcal{A}$ の唯一の要素を表すとする．
 
-$T$ の分割からなる列 $\mathcal{A}_0, \mathcal{A}_1, \ldots$ がネストしているとは，任意の $k \geq 1$ に対して，$\mathcal{A}_k$ が $\mathcal{A}_{k - 1}$ の細分になっていることをいう．分割の列 $\mathcal{A}_0, \mathcal{A}_1, \ldots$ がTalagrand列 (または許容列) であるとは，任意の $k \geq 1$ に対して，$\mathcal{A}_k$ の要素数について
+$T$ の分割からなる列 $\mathcal{A}_0, \mathcal{A}_1, \ldots$ がネストしているとは，任意の $k \geq 1$ に対して $\mathcal{A}_k$ が $\mathcal{A}_{k-1}$ の細分になっていることをいう．
+分割の列 $\mathcal{A}_0, \mathcal{A}_1, \ldots$ がTalagrand列 (または許容列) であるとは，任意の $k \geq 1$ に対して，
+
 $$
 1 \leq |\mathcal{A}_k| \leq 2^{2^k}
 $$
+
 が成り立つこととする．
 
 以上の用語のもとで，$\gamma_2(T, d)$ を
+
 $$
-\inf_{\\{ \mathcal{A}_k \\}_{k \geq 0} }
-\sup_{t \in T} \sum_{k = 0}^\infty 2^{k/2} \mathrm{diam}(\mathcal{A}_k(t))
+\inf \sup_{t \in T} \sum_{k = 0}^\infty 2^{k/2} \mathrm{diam}(\mathcal{A}_k(t))
 $$
+
 によって定義する．ただし，infはすべてのTalagrand列の全体にわたってとる．
 
 ### 定理の主張
