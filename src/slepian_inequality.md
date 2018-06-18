@@ -23,3 +23,8 @@ $$
 平均 $0$ のガウス過程 $X_i$ ($i = 1, \ldots, n$) について，分散 $\mathbb{E}X_i^2$ の値が各時刻で同じなら，異なる時刻間の相関が小さいほど最大値の期待値は大きい．
 
 ガウス過程の最大値の期待値どうしを比較したり，下から抑えたいときに役立つ．[Sudakov minoration](sudakov_minoration.md)も参照．
+
+## 出典
+
+- Dudley. Uniform Central Limit Theorems. 2nd edition (2014).
+- Boucheron, Lugosi and Massart. Concentration inequalities: A Nonasymptotic Theory of Independence (2013).

@@ -2,9 +2,9 @@
 
 ## ステートメント (a)
 
-$T$ を可算集合として，$\{ X_t: t \in T \}$ を $T$ で添字づけられた平均0のガウス過程とする．つまり，それぞれの $X_t$ は同じ確率空間で定義された正規確率変数で，$\mathbb{E} X_t = 0$ を満たすものとする．$T$ に $X_t$ から誘導される擬距離 $d_X$ を
+$T$ を可算集合として，$\\{ X_t: t \in T \\}$ を $T$ で添字づけられた平均0のガウス過程とする．つまり，それぞれの $X_t$ は同じ確率空間で定義された正規確率変数で，$\mathbb{E} X_t = 0$ を満たすものとする．$T$ に $X_t$ から誘導される擬距離 $d_X$ を
 $$
-d_X(s, t) = (\mathbb{E} (X_s - X_t)^2)^{1/2}
+d_X(s, t) = \sqrt{\mathbb{E} (X_s - X_t)^2}
 $$
 のように定める．任意の $\epsilon > 0$ に対して，$M(\epsilon, T, d_X)$ を擬距離 $d_X$ による $T$ の $\epsilon$-パッキングナンバーとする．
 
@@ -44,6 +44,5 @@ Sudakov minorationによる下界はオーダーの意味でタイトではな�
 
 ## 出典
 
-Dudley. Uniform Central Limit Theorems. 2nd edition (2014).
-
-Gine and Nickl. Mathematical Foundations of Infinite-Dimensional Statistical Models (2015).
+- Dudley. Uniform Central Limit Theorems. 2nd edition (2014).
+- Gine and Nickl. Mathematical Foundations of Infinite-Dimensional Statistical Models (2015).

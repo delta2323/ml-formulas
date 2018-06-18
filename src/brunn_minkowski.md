@@ -6,7 +6,7 @@ $\mu$ を $\mathbb{R}^n$ のLebesgue測度とする．$A, B \subseteq \mathbb{R}
 $$
 \mu( (1 - \lambda) A + \lambda B)^{1/n} \geq (1 - \lambda) \mu(A)^{1/n} + \lambda \mu(B)^{1/n}
 $$
-が成り立つ．ただし，集合 $A, B \subseteq \mathbb{R}^n$ に対して，$A + B$ はMinkowski和を表し，$\lambda A = \{ \lambda x: x \in A \}$ とする．
+が成り立つ．ただし，集合 $A, B \subseteq \mathbb{R}^n$ に対して，$A + B$ はMinkowski和を表し，$\lambda A = \\{ \lambda x: x \in A \\}$ とする．
 
 ## コメント
 

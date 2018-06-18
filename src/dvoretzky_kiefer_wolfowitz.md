@@ -4,7 +4,7 @@
 
 $X$ を $\mathbb{R}$ に値をとる任意の確率変数とし，$F: \mathbb{R} \to [0, 1]$ をその分布関数とする．$X_1, \ldots, X_n$ を $X$ の独立なコピーとして，$F_n$ をそれらの経験分布関数とする．このとき，ある定数 $0 < C < +\infty$ が存在して，任意の $t > 0$ に対して
 $$
-\mathrm{Pr}(\sqrt{n} \sup_{x \in \mathbb{R}} |F_n(x) - F(x)| > t) \leq C \exp( - 2 t^2)
+\mathbb{P}(\sqrt{n} \sup_{x \in \mathbb{R}} |F_n(x) - F(x)| > t) \leq C \exp( - 2 t^2)
 $$
 が成り立つ．
 

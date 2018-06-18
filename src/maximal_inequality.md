@@ -1,6 +1,6 @@
-# 最大不等式 (sub-Gaussian)
+# 最大不等式
 
-## ステートメント
+## ステートメント (sub-Gaussian)
 
 $X_1, \ldots, X_n$ は分散パラメータ $\sigma_i^2$ ($i = 1, \ldots, n$) をもつsub-Gaussian確率変数であるとする．このとき，
 $$
@@ -12,22 +12,21 @@ $$
 $$
 が成り立つ．
 
+## ステートメント (chi-squared)
 
-## コメント
-
-$n$ 個のsub-Gaussian確率変数の最大値の期待値は，相関の有無にかかわらず $O(\sqrt{\log n})$ で上から抑えることができる．
-
-sub-Gaussianに限らず，有限個の確率変数の最大値に関するバウンドを最大不等式と呼ぶことがある．一般論については，Boucheron, et al. (2014) Section 2.5などを参照．
-
-例えば，統計学ではカイ二乗分布の最大値に関する上界もよく利用される．$X_1, \ldots, X_n$ を，互いに独立とは限らない自由度 $p$ のカイ二乗確率変数とすると，
+$X_1, \ldots, X_n$ は，互いに独立とは限らない自由度 $p$ のカイ二乗確率変数とする．このとき，
 $$
 \mathbb{E} \max_{1 \leq i \leq n} X_i \leq p + 2 \sqrt{p \log n} + 2\log n
 $$
 が成り立つ．
 
-無限集合への拡張は[Dudleyのエントロピーバウンド](chaining.md)を参照．
+## コメント
 
-大きさの比較は[Slepianの不等式](slepian_inequality)を参照．
+- 有限個の確率変数の最大値に関するバウンドを最大不等式と呼ぶことがある．一般論については，Boucheron, et al. (2013) Section 2.5などを参照．
+- $n$ 個のsub-Gaussian確率変数の最大値の期待値は，相関の有無にかかわらず $O(\sqrt{\log n})$ で上から抑えることができる．
+- カイ二乗分布の最大不等式は，sub-Gamma確率変数に関する最大不等式の特別な場合である (Boucheron, et al. (2013) Corollary 2.6).
+- 無限集合への拡張については[Dudleyのエントロピーバウンド](chaining.md)を参照．
+- 最大値の期待値どうしの大小比較は[Slepianの不等式](slepian_inequality.md)を参照．
 
 ## 出典
 
