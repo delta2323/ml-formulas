@@ -29,7 +29,7 @@ Contribution welcome!
     * [Bernsteinの不等式](src/bernstein_inequality.md)
     * Azuma's inequality
     * Talagrand's inequality
-    * Gaussian concentration inequality
+    * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
     * [Dudleyのエントロピーバウンド](src/dudley_entropy_bound.md)
     * [Sudakov minoration](src/sudakov_minoration.md)
     * [Generic chaining](src/generic_chaining.md)
