@@ -14,7 +14,7 @@ $$
 
 ## 証明の概要
 
-$\lambda = 1/2$，$n = 1$ とした不等式 $\mu(A + B) \geq \mu(A) + \mu(B)$ は容易に示すことができる．多次元の場合は，[Prekopa--Leindlerの不等式](prekopa_leindler.md)を経由する方法が知られている (Boucheron, Lugosi and Massart (2013)).
+$\lambda = 1/2$，$n = 1$ とした不等式 $\mu(A + B) \geq \mu(A) + \mu(B)$ は容易に示すことができる．多次元の場合は，[Prekopa--Leindlerの不等式](prekopa_leindler_inequality.md)を経由する方法が知られている (Boucheron, Lugosi and Massart (2013)).
 
 ## 出典
 
