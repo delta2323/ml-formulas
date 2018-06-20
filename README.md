@@ -30,17 +30,19 @@ Contribution welcome!
     * Azuma's inequality
     * Talagrand's inequality
     * Gaussian concentration inequality
-    * ~Chaining~
-    * ~Sudakov minoration~
+    * [Dudleyのエントロピーバウンド](src/dudley_entropy_bound.md)
+    * [Sudakov minoration](src/sudakov_minoration.md)
     * Symmetrization
-    * ~maximal inequality~
+    * [最大不等式](src/maximal_inequality.md)
     * Efron-Stein's inequality
     * Sub-additivity of entropy
     * McDiarmid's inequality
   * Donsker's variational representation of KL divergence
   * log Sobolev inequality
   * Isoperimetric inequality
-  * ~Brunn-Minkowski~, ~Prekopa-Leindler~
+  * 凸幾何学
+    * [Brunn-Minkowskiの不等式](brunn_minkowski_inequality.md)
+    * [Prekopa-Leindlerの不等式](prekopa_leindler_inequality.md)
   * 情報理論
     * Fano inequality
     * Le Cam inequality
@@ -53,9 +55,10 @@ Contribution welcome!
     * Luo-Tseng error bound
     * Lojasiewicz不等式
 * 確率論
-  * ~Slepianの補題~
+  * [Slepianの不等式](src/slepian_inequality.md)
   * Gaussian correlation inequality
-  * ~Berry--Esseen~ / ~Dvoretzky--Kiefer--Wolfowitz~
+  * [Berry--Esseenの定理](src/berry_esseen_univariate.md)
+  * [Dvoretzky--Kiefer--Wolfowitzの不等式](dvoretzky_kiefer_wolfowitz_inequality.md)
 * 確率過程・確率微分方程式
   * Doobの不等式
   * Borel-Cantelliの定理
