@@ -30,17 +30,17 @@ Contribution welcome!
     * Azuma's inequality
     * Talagrand's inequality
     * Gaussian concentration inequality
-    * Chaining
-    * Sudakov minoration
+    * ~Chaining~
+    * ~Sudakov minoration~
     * Symmetrization
-    * maximal inequality
+    * ~maximal inequality~
     * Efron-Stein's inequality
     * Sub-additivity of entropy
     * McDiarmid's inequality
   * Donsker's variational representation of KL divergence
   * log Sobolev inequality
   * Isoperimetric inequality
-    * Brunn-Minkowski, Prekopa-Leindler
+  * ~Brunn-Minkowski~, ~Prekopa-Leindler~
   * 情報理論
     * Fano inequality
     * Le Cam inequality
@@ -53,9 +53,9 @@ Contribution welcome!
     * Luo-Tseng error bound
     * Lojasiewicz不等式
 * 確率論
-  * Slepianの補題
+  * ~Slepianの補題~
   * Gaussian correlation inequality
-  * Berry--Esseen / Dvoretzky--Kiefer--Wolfowitz
+  * ~Berry--Esseen~ / ~Dvoretzky--Kiefer--Wolfowitz~
 * 確率過程・確率微分方程式
   * Doobの不等式
   * Borel-Cantelliの定理
