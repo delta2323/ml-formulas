@@ -30,7 +30,7 @@ $$
 
 ## コメント
 
-ガウス過程のsupの期待値を，距離エントロピーを使って下からおさえる不等式である．特に，[Dudleyのエントロピーバウンド](chaining.md)と合わせると，ガウス過程の最大値の期待値は
+ガウス過程のsupの期待値を，距離エントロピーを使って下からおさえる不等式である．特に，[Dudleyのエントロピーバウンド](dudley_entropy_bound.md)と合わせると，ガウス過程の最大値の期待値は
 $$
 C_1 \epsilon \sqrt{\log M(\epsilon, T, d_X)} \leq
 \mathbb{E} \sup_{t \in T} X_t \leq
