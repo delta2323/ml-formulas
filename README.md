@@ -41,8 +41,8 @@ Contribution welcome!
   * log Sobolev inequality
   * Isoperimetric inequality
   * 凸幾何学
-    * [Brunn-Minkowskiの不等式](brunn_minkowski_inequality.md)
-    * [Prekopa-Leindlerの不等式](prekopa_leindler_inequality.md)
+    * [Brunn-Minkowskiの不等式](src/brunn_minkowski_inequality.md)
+    * [Prekopa-Leindlerの不等式](src/prekopa_leindler_inequality.md)
   * 情報理論
     * Fano inequality
     * Le Cam inequality
