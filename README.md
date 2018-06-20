@@ -32,6 +32,7 @@ Contribution welcome!
     * Gaussian concentration inequality
     * [Dudleyのエントロピーバウンド](src/dudley_entropy_bound.md)
     * [Sudakov minoration](src/sudakov_minoration.md)
+    * [Generic chaining](src/generic_chaining.md)
     * Symmetrization
     * [最大不等式](src/maximal_inequality.md)
     * Efron-Stein's inequality
