@@ -37,7 +37,7 @@ $$
 $$
 \mu((1 - \lambda) A + \lambda B) \geq \mu(A)^{1 - \lambda} \mu(B)^{\lambda}
 $$
-が成り立つ．これを確認するには，$h(x) = \phi(x) 1_{(1 - \lambda) A + \lambda B}(x)$, $f(x) = \phi(x) 1_{A}$, $g(x) = \phi(x) 1_{B}$ にPrekopa--Leindlerの不等式を適用すればよい．特に，$\mu$ が $\mathbb{R}^n$ の一様測度のときにも成立し，ここから多次元の[Brunn--Minkowskiの不等式](brunn_minkowski.md)が示せる (Boucheron, Lugosi and Massart (2013), Section 4.14)．また，低次元の線形部分空間に縮退したGauss測度でも同様のことが示せる (Gine and Nickl (2015), Theorem 2.4.3).
+が成り立つ．これを確認するには，$h(x) = \phi(x) 1_{(1 - \lambda) A + \lambda B}(x)$, $f(x) = \phi(x) 1_{A}$, $g(x) = \phi(x) 1_{B}$ にPrekopa--Leindlerの不等式を適用すればよい．特に，$\mu$ が $\mathbb{R}^n$ の一様測度のときにも成立し，ここから多次元の[Brunn--Minkowskiの不等式](brunn_minkowski_inequality.md)が示せる (Boucheron, Lugosi and Massart (2013), Section 4.14)．また，低次元の線形部分空間に縮退したGauss測度でも同様のことが示せる (Gine and Nickl (2015), Theorem 2.4.3).
 
 ## 出典
 
