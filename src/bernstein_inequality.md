@@ -12,7 +12,7 @@ $$
 
 ## 証明の概要
 
-[Bennettの不等式](bennett_inequlity.md)と不等式
+[Bennettの不等式](bennett_inequality.md)と不等式
 $$
 h(u) \geq \frac{u^2}{2(1 + \frac{u}{3})}
 $$
