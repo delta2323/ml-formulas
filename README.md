@@ -21,12 +21,12 @@ Contribution welcome!
 
 * 機械学習・統計的学習理論
   * 集中不等式
-    * ~Markov's inequality~
-    * ~Chebyshev's inequality~
-    * ~Chernoff bound~
-    * ~Hoeffding's inequality~
-    * ~Bennet's inequality~
-    * ~Bernstein's inequality~
+    * [Markovの不等式](src/markov_inequality.md)
+    * [Chebyshevの不等式](src/chebyshev_inequality.md)
+    * [Chernoff bound](src/chernoff_bound.md)
+    * [Hoeffdingの不等式](src/hoeffding_inequality.md)
+    * [Bennetの不等式](src/bennett_inequality.md)
+    * [Bernsteinの不等式](src/bernstein_inequality.md)
     * Azuma's inequality
     * Talagrand's inequality
     * Gaussian concentration inequality
