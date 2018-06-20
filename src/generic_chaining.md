@@ -48,7 +48,7 @@ $$
 ## コメント
 
 - (劣)ガウス過程の最大値の期待値について，定数倍を許してタイトな上下界を与えた定理．Majorizing measure theoremともいう (Talagrand (2014), Theorem 2.4.1).
-- これに対して，[Dudleyのエントロピーバウンド](chaining.md) および [Sudakov minoration](sudakov_minoration.md) によって得られる上下界はタイトでない例が存在する．例えば，$T$ が $\mathbb{R}^m$ の楕円体であるとき，Dudleyのバウンドよりも本質的によい上界が存在する (Talagrand (2014), Section 2.5).$T$ が $\mathbb{R}^m$ の部分集合のとき，Dudleyのバウンドによる上界は，最適なものと比較すると高々 $O(\log (m + 1))$ のギャップを生じうる．
+- これに対して，[Dudleyのエントロピーバウンド](dudley_entropy_bound.md) および [Sudakov minoration](sudakov_minoration.md) によって得られる上下界はタイトでない例が存在する．例えば，$T$ が $\mathbb{R}^m$ の楕円体であるとき，Dudleyのバウンドよりも本質的によい上界が存在する (Talagrand (2014), Section 2.5).$T$ が $\mathbb{R}^m$ の部分集合のとき，Dudleyのバウンドによる上界は，最適なものと比較すると高々 $O(\log (m + 1))$ のギャップを生じうる．
 
 
 ## 出典

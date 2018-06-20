@@ -25,7 +25,7 @@ $$
 - 有限個の確率変数の最大値に関するバウンドを最大不等式と呼ぶことがある．一般論については，Boucheron, et al. (2013) Section 2.5などを参照．
 - $n$ 個のsub-Gaussian確率変数の最大値の期待値は，相関の有無にかかわらず $O(\sqrt{\log n})$ で上から抑えることができる．
 - カイ二乗分布の最大不等式は，sub-Gamma確率変数に関する最大不等式の特別な場合である (Boucheron, et al. (2013) Corollary 2.6).
-- 無限集合への拡張については[Dudleyのエントロピーバウンド](chaining.md)を参照．
+- 無限集合への拡張については[Dudleyのエントロピーバウンド](dudley_entropy_bound.md)を参照．
 - 最大値の期待値どうしの大小比較は[Slepianの不等式](slepian_inequality.md)を参照．
 
 ## 出典
