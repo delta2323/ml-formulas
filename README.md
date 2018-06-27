@@ -69,7 +69,6 @@ Contribution welcome!
   * 重複対数の法則
 * 統計学
   * Cramer-Rao bound系 (オリジナル1変数版，Bhattacharya)
-  * Muirheadの不等式
   * Steinのパラドックス
   * ミニマックスリスク >= ベイズリスク
   * 分類問題のBayes errorをBhattacharya affinityとかchi^2-divergenceで抑えるもの (名前不明)
@@ -91,4 +90,5 @@ Contribution welcome!
 * スペクトル理論
   * Cheeger inequality
 * Majorization inequality系
+  * Muirheadの不等式
 * Koksma-Hlawka inequality (quai-Monte Carlo法に関係)
