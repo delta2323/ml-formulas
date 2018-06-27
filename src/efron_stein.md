@@ -14,7 +14,7 @@ $$
 Boucheron et al. (2013)3章では，
 
 $$
-\Delta_i = \mathbb{E}_i Z - \mathbb{E}_{i-1}Z
+\Delta_i = \mathbb{E}\_i Z - \mathbb{E}\_{i-1}Z
 $$
 
 によりDoobマルチンゲール列を構成し，$Z$の分散が$\Delta_i$達の分散の和で書けることから証明している．
