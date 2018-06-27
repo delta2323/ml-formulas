@@ -37,7 +37,7 @@ Contribution welcome!
     * [Generic chaining](src/generic_chaining.md)
     * Symmetrization
     * [最大不等式](src/maximal_inequality.md)
-    * Efron-Stein's inequality
+    * [Efron--Stein不等式](src/efron_stein.md)
     * Sub-additivity of entropy
     * McDiarmid's inequality
   * Donsker's variational representation of KL divergence
