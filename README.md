@@ -27,6 +27,8 @@ Contribution welcome!
     * [Hoeffdingの不等式](src/hoeffding_inequality.md)
     * [Bennetの不等式](src/bennett_inequality.md)
     * [Bernsteinの不等式](src/bernstein_inequality.md)
+    * [Poisson分布の生成母関数とそのCramer変換]（src/poisson_moment_generating_function.md）
+    * [Bernsteinの不等式](src/bernstein_inequality.md)
     * Azuma's inequality
     * Talagrand's inequality
     * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
