@@ -5,7 +5,7 @@ $\mathcal{X}$を測度空間，$X_1, \ldots, X_N$を独立な確率分布，$f: 
 ＄Z=f(X_1, \ldots, X_N)＄とすると，
 
 $$
-Var(Z) \geq \frac{1}{2} \sum_{i=1}^N (f(Z) - f(Z_i))^2.
+Var(Z) \leq \frac{1}{2} \sum_{i=1}^N (f(Z) - f(Z_i))^2.
 $$
 ここで， $X_i'$を$X_i$の独立なコピーとし， $Z_i = f(X_1, \ldots, X_i', \ldots, X_N)$とした．
 
