@@ -30,24 +30,25 @@ Contribution welcome!
     * [Poisson分布の生成母関数とそのCramer変換](src/poisson_moment_generating_function.md)
     * [Bernsteinの不等式](src/bernstein_inequality.md)
     * Azuma's inequality
-    * Talagrand's inequality
+    * McDiarmid's inequality
     * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
     * [Dudleyのエントロピーバウンド](src/dudley_entropy_bound.md)
     * [Sudakov minoration](src/sudakov_minoration.md)
     * [Generic chaining](src/generic_chaining.md)
+    * Talagrand's inequality
     * Symmetrization
     * [最大不等式](src/maximal_inequality.md)
     * Efron-Stein's inequality
     * Sub-additivity of entropy
-    * McDiarmid's inequality
+    * Log-Sobolev inequality
+    * Modified Log-Sobolev inequality
     * Bounded difference inequality
   * Donsker's variational representation of KL divergence
-  * log Sobolev inequality
   * Isoperimetric inequality
   * 凸幾何学
     * [Brunn-Minkowskiの不等式](src/brunn_minkowski_inequality.md)
     * [Prekopa-Leindlerの不等式](src/prekopa_leindler_inequality.md)
-    * [Andersonの不等式]
+    * Andersonの不等式
   * 情報理論
     * Fano inequality
     * Le Cam inequality
