@@ -46,6 +46,7 @@ Contribution welcome!
   * 凸幾何学
     * [Brunn-Minkowskiの不等式](src/brunn_minkowski_inequality.md)
     * [Prekopa-Leindlerの不等式](src/prekopa_leindler_inequality.md)
+    * [Andersonの不等式]
   * 情報理論
     * Fano inequality
     * Le Cam inequality
