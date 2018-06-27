@@ -5,7 +5,7 @@ $\mathcal{X}$を測度空間，$X_1, \ldots, X_N$を$\mathcal{X}$に値を取る
 $Z=f(X_1, \ldots, X_N)$ とすると，
 
 $$
-Var(Z) \leq \frac{1}{2} \sum_{i=1}^N (f(Z) - f(Z_i))^2.
+Var(Z) \leq \frac{1}{2} \sum_{i=1}^N \mathbb{E}\left[(Z - Z_i)^2\right].
 $$
 ここで， $X_i'$を$X_i$の独立なコピーとし， $Z_i = f(X_1, \ldots, X_i', \ldots, X_N)$とした．
 
