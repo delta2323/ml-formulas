@@ -40,6 +40,7 @@ Contribution welcome!
     * Efron-Stein's inequality
     * Sub-additivity of entropy
     * McDiarmid's inequality
+    * Bounded difference inequality
   * Donsker's variational representation of KL divergence
   * log Sobolev inequality
   * Isoperimetric inequality
