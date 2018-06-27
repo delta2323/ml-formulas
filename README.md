@@ -39,6 +39,7 @@ Contribution welcome!
     * Symmetrization
     * Efron-Stein's inequality
     * Sub-additivity of entropy
+    * Hypercontractive不等式
     * Log-Sobolev inequality
     * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
     * Modified Log-Sobolev inequality
@@ -85,6 +86,7 @@ Contribution welcome!
   * 期待値を確率の積分で表示
   * Kinchin-type inequality
   * Poincare inequality
+  * Radon-Nikodymの定理
 * 線形代数
   * Min-max theorem
   * Cauchy's interacing theorem
