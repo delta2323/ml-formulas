@@ -1,7 +1,7 @@
 # Efron-Steinの不等式
 
 ## ステートメント
-$\mathcal{X}$を測度空間，$X_1, \ldots, X_N$を独立な確率分布，$f: \mathcal{X}^N\to \mathbb{R}$を2乗可積分な関数とする．
+$\mathcal{X}$を測度空間，$X_1, \ldots, X_N$を$\mathcal{X}$に値を取る独立な確率分布，$f: \mathcal{X}^N\to \mathbb{R}$を2乗可積分な関数とする．
 ＄Z=f(X_1, \ldots, X_N)＄とすると，
 
 $$
