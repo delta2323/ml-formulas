@@ -27,7 +27,7 @@ Contribution welcome!
     * [Hoeffdingの不等式](src/hoeffding_inequality.md)
     * [Bennetの不等式](src/bennett_inequality.md)
     * [Bernsteinの不等式](src/bernstein_inequality.md)
-    * [Poisson分布の生成母関数とそのCramer変換]（src/poisson_moment_generating_function.md）
+    * [Poisson分布の生成母関数とそのCramer変換](src/poisson_moment_generating_function.md)
     * [Bernsteinの不等式](src/bernstein_inequality.md)
     * Azuma's inequality
     * Talagrand's inequality
@@ -61,7 +61,7 @@ Contribution welcome!
   * [Slepianの不等式](src/slepian_inequality.md)
   * Gaussian correlation inequality
   * [Berry--Esseenの定理](src/berry_esseen_univariate.md)
-  * [Dvoretzky--Kiefer--Wolfowitzの不等式](dvoretzky_kiefer_wolfowitz_inequality.md)
+  * [Dvoretzky--Kiefer--Wolfowitzの不等式](src/dvoretzky_kiefer_wolfowitz_inequality.md)
 * 確率過程・確率微分方程式
   * Doobの不等式
   * Borel-Cantelliの定理
