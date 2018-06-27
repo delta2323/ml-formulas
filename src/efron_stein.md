@@ -5,7 +5,7 @@ $\mathcal{X}$を測度空間，$X_1, \ldots, X_N$を$\mathcal{X}$に値を取る
 $Z=f(X_1, \ldots, X_N)$ とすると，
 
 $$
-Var(Z) \leq \frac{1}{2} \sum_{i=1}^N \mathbb{E}\left[(Z - Z_i)^2\right].
+\mathrm{Var}(Z) \leq \frac{1}{2} \sum_{i=1}^N \mathbb{E}\left[(Z - Z_i)^2\right].
 $$
 
 ここで， $X_i'$を$X_i$の独立なコピーとし， $Z_i = f(X_1, \ldots, X_i', \ldots, X_N)$とした．
@@ -14,10 +14,10 @@ $$
 Boucheron et al. (2013)3章では，
 
 $$
-\Nabla_i = \mathbb{E}_i Z - \mathbb{E}_{i-1}Z
+\Delta_i = \mathbb{E}_i Z - \mathbb{E}_{i-1}Z
 $$
 
-によりDoobマルチンゲール列を構成し，$Z$の分散が$\Nabla_i$達の分散の和で書けることから証明している．
+によりDoobマルチンゲール列を構成し，$Z$の分散が$\Delta_i$達の分散の和で書けることから証明している．
 ここで$\mathbb{E}_i$は$X_1, \ldots, X_i$で条件づけた期待値である．
 
 ## コメント
