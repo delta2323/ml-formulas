@@ -31,16 +31,16 @@ Contribution welcome!
     * [Bernsteinの不等式](src/bernstein_inequality.md)
     * Azuma's inequality
     * McDiarmid's inequality
-    * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
+    * [最大不等式](src/maximal_inequality.md)
     * [Dudleyのエントロピーバウンド](src/dudley_entropy_bound.md)
     * [Sudakov minoration](src/sudakov_minoration.md)
     * [Generic chaining](src/generic_chaining.md)
     * Talagrand's inequality
     * Symmetrization
-    * [最大不等式](src/maximal_inequality.md)
     * Efron-Stein's inequality
     * Sub-additivity of entropy
     * Log-Sobolev inequality
+    * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
     * Modified Log-Sobolev inequality
     * Bounded difference inequality
   * Donsker's variational representation of KL divergence
