@@ -39,7 +39,7 @@ Contribution welcome!
     * Symmetrization
     * Efron-Stein's inequality
     * Sub-additivity of entropy
-    * Hypercontractive不等式
+    * [Hypercontractive不等式](src/hypercontractive_inequality.md)
     * Log-Sobolev inequality
     * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
     * Modified Log-Sobolev inequality
