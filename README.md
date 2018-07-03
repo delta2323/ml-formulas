@@ -47,7 +47,7 @@ Contribution welcome!
   * ブーリアン関数
     * [Hypercontractive不等式](src/hypercontractive_inequality.md)
     * Kahn--Kalai--Linial（KKL）不等式
-	* Majority is the stablest定理
+    * Majority is the stablest定理
   * Isoperimetric inequality
   * 凸幾何学
     * [Brunn-Minkowskiの不等式](src/brunn_minkowski_inequality.md)
