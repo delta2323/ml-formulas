@@ -51,6 +51,8 @@ Contribution welcome!
     * Andersonの不等式
   * 情報理論
     * Fano inequality
+    * Pinskerの不等式
+    * Birgeの不等式
     * Le Cam inequality
     * Data processing inequality
     * Strong data processing inequality
