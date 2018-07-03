@@ -39,12 +39,15 @@ Contribution welcome!
     * Symmetrization
     * Efron-Stein's inequality
     * Sub-additivity of entropy
-    * [Hypercontractive不等式](src/hypercontractive_inequality.md)
     * Log-Sobolev inequality
     * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
     * Modified Log-Sobolev inequality
     * Bounded difference inequality
   * Donsker's variational representation of KL divergence
+  * ブーリアン関数
+    * [Hypercontractive不等式](src/hypercontractive_inequality.md)
+    * Kahn--Kalai--Linial（KKL）不等式
+	* Majority is the stablest定理
   * Isoperimetric inequality
   * 凸幾何学
     * [Brunn-Minkowskiの不等式](src/brunn_minkowski_inequality.md)
