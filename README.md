@@ -30,7 +30,6 @@ Contribution welcome!
     * [Poisson分布の生成母関数とそのCramer変換](src/poisson_moment_generating_function.md)
     * [Bernsteinの不等式](src/bernstein_inequality.md)
     * Azuma's inequality
-    * McDiarmid's inequality
     * [最大不等式](src/maximal_inequality.md)
     * [Dudleyのエントロピーバウンド](src/dudley_entropy_bound.md)
     * [Sudakov minoration](src/sudakov_minoration.md)
@@ -43,7 +42,7 @@ Contribution welcome!
     * Log-Sobolev inequality
     * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
     * Modified Log-Sobolev inequality
-    * Bounded difference inequality
+    * McDiarmid's inequality (Bounded difference inequality)
   * Donsker's variational representation of KL divergence
   * Isoperimetric inequality
   * 凸幾何学
@@ -52,6 +51,8 @@ Contribution welcome!
     * Andersonの不等式
   * 情報理論
     * Fano inequality
+    * Pinskerの不等式
+    * Birgeの不等式
     * Le Cam inequality
     * Data processing inequality
     * Strong data processing inequality
