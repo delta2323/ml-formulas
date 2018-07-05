@@ -12,7 +12,7 @@ $$
 \mathrm{Ent}^{(i)}(Z)\colon = \mathbb{E}^{(i)}\left[\Phi(Z)\right] - \Phi(\mathbb{E}^{(i)}Z)
 $$
 
-と定義する．ここで，$\mathbb{E}^(i)$は，$X_1, \ldots, X_{i-1}, X_{i+1}, \ldots, X_{N}$で条件づけた期待値（すなわち，$X_i$についてのみ期待値を取る），$\Phi(x) \colon = x\log x (x\geq 0)$である（$0\log 0=0$と約束する）．
+と定義する．ここで，$\mathbb{E}^{(i)}$は，$X_1, \ldots, X_{i-1}, X_{i+1}, \ldots, X_{N}$で条件づけた期待値（すなわち，$X_i$についてのみ期待値を取る），$\Phi(x) \colon = x\log x (x\geq 0)$である（$0\log 0=0$と約束する）．
 この時，
 
 $$
