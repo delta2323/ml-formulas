@@ -6,33 +6,32 @@
 
 $(T, d)$ を距離空間とする．
 
-$T$ の部分集合 $A$ の直径を $\mathrm{diam}(A) = \sup_{s, t \in A} d(s, t)$ と表す．
+$T$ の部分集合 $A$ の直径を $\mathrm{diam}(A) = \sup\_{s, t \in A} d(s, t)$ と表す．
 
-$T$ の分割 $\mathcal{A}$ とは，互いに交わらない $T$ の有限個の部分集合の族 $\mathcal{A} = \big\\{ A_1, \ldots, A_m \big\\}$ で，$\bigcup_i A_i = T$ となるものである．$T$ の分割 $\mathcal{A}$ および点 $t \in T$ に対して，$\mathcal{A}(t)$ によって $t$ を含む $\mathcal{A}$ の唯一の要素を表すとする．
+$T$ の分割 $\mathcal{A}$ とは，互いに交わらない $T$ の有限個の部分集合の族 $\mathcal{A} = \{ A_1, \ldots, A_m \}$ で，$\bigcup\_i A\_i = T$ となるものである．$T$ の分割 $\mathcal{A}$ および点 $t \in T$ に対して，$\mathcal{A}(t)$ によって $t$ を含む $\mathcal{A}$ の唯一の要素を表すとする．
 
-$T$ の分割からなる列 $\mathcal{A}_0, \mathcal{A}_1, \ldots$ がネストしているとは，任意の $k \geq 1$ に対して $\mathcal{A}\_{k}$ が $\mathcal{A}\_{k-1}$ の細分になっていることをいう．
+$T$ の分割からなる列 $\mathcal{A}_0, \mathcal{A}\_1, \ldots$ がネストしているとは，任意の $k \geq 1$ に対して $\mathcal{A}\_{k}$ が $\mathcal{A}\_{k-1}$ の細分になっていることをいう．
 分割の列 $\mathcal{A}\_{0}, \mathcal{A}\_{1}, \ldots$ がTalagrand列 (または許容列) であるとは，任意の $k \geq 1$ に対して，
 
 $$
-1 \leq |\mathcal{A}_{k}| \leq 2^{2^k}
+1 \leq |\mathcal{A}\_{k}| \leq 2^{2^k}
 $$
-
 
 が成り立つこととする．
 
-以上の用語のもとで，$\gamma_2(T, d)$ を
+以上の用語のもとで，$\gamma\_2(T, d)$ を
 
 $$
-\inf \sup_{t \in T} \sum_{k = 0}^\infty 2^{k/2} \mathrm{diam}(\mathcal{A}_{k}(t))
+\inf \sup\_{t \in T} \sum\_{k = 0}^\infty 2^{k/2} \mathrm{diam}(\mathcal{A}\_{k}(t))
 $$
 
 によって定義する．ただし，infはすべてのTalagrand列の全体にわたってとる．
 
 ### 定理の主張
 
-$(T, d)$ を距離空間として，確率過程 $\{ X_t: t \in T \}$ を距離 $d$ に関するsub-Gaussian processとする．つまり，任意の $s, t \in T$ と $u > 0$ に対して
+$(T, d)$ を距離空間として，確率過程 $\\{ X\_t: t \in T \\}$ を距離 $d$ に関するsub-Gaussian processとする．つまり，任意の $s, t \in T$ と $u > 0$ に対して
 $$
-\mathbb{P}(|X_s - X_t| \geq u)
+\mathbb{P}(|X\_s - X\_t| \geq u)
 \leq 2 \exp \left( - \frac{u^2}{2 d(s, t)^2} \right)
 $$
 が成り立つものとする．
@@ -40,10 +39,10 @@ $$
 このとき，
 $$
 C\_1 \gamma_2(T, d) \leq
-\mathbb{E} \sup_{t \in T} X_t
-\leq C_2 \gamma_2(T, d)
+\mathbb{E} \sup\_{t \in T} X\_t
+\leq C\_2 \gamma\_2(T, d)
 $$
-が成り立つ．ただし，$C_1, C_2 > 0$ は普遍的な定数である．
+が成り立つ．ただし，$C\_1, C\_2 > 0$ は普遍的な定数である．
 
 
 ## コメント
