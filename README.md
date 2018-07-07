@@ -37,7 +37,7 @@ Contribution welcome!
     * Talagrand's inequality
     * Symmetrization
     * Efron-Stein's inequality
-    * Sub-additivity of entropy
+    * [エントロピーの劣加法性](src/subadditivity_of_entropy.md)
     * Hypercontractive不等式
     * Log-Sobolev inequality
     * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
