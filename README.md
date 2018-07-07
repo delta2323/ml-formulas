@@ -53,10 +53,10 @@ Contribution welcome!
     * [Prekopa-Leindlerの不等式](src/prekopa_leindler_inequality.md)
     * Andersonの不等式
   * 情報理論
-    * Fano inequality
-    * Pinskerの不等式
+    * [Fanoの不等式](src/fano_inequality.md)
+    * [Pinskerの不等式](src/pinsker_inequality.md)
     * Birgeの不等式
-    * Le Cam inequality
+    * [Le Camの不等式](src/le_cam_inequality.md)
     * Data processing inequality
     * Strong data processing inequality
   * 凸解析
@@ -79,6 +79,7 @@ Contribution welcome!
   * Cramer-Rao bound系 (オリジナル1変数版，Bhattacharya)
   * Steinのパラドックス
   * ミニマックスリスク >= ベイズリスク
+  * [ミニマックス理論におけるLe Camの方法](src/le_cam_method.md)
   * 分類問題のBayes errorをBhattacharya affinityとかchi^2-divergenceで抑えるもの (名前不明)
 * 関数解析
   * Holder inequality
