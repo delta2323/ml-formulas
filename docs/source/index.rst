@@ -10,8 +10,10 @@ Welcome to ml-formulas's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   bennett_inequality.md
-   generic_chaining.md   
+   concentration/index
+   boolean/index
+   convex_geometry/index
+   probability/index
 
 Indices and tables
 ==================
