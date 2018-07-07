@@ -36,7 +36,7 @@ Contribution welcome!
     * [Generic chaining](src/generic_chaining.md)
     * Talagrand's inequality
     * Symmetrization
-    * Efron-Stein's inequality
+    * [Efron--Stein不等式](src/efron_stein.md)
     * [エントロピーの劣加法性](src/subadditivity_of_entropy.md)
     * Hypercontractive不等式
     * Log-Sobolev inequality
