@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 """
+Code from https://gist.github.com/uchida/4005663
+"""
+
+"""
     sphinx.ext.mathjax
     ~~~~~~~~~~~~~~~~~~
 
