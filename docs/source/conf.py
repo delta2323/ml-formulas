@@ -36,7 +36,7 @@ source_parsers = {
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['mathjax']
+extensions = ['mathjax2']
 print(sys.path[0])
 print(os.listdir(sys.path[0]))
 
