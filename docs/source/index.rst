@@ -14,6 +14,7 @@ Welcome to ml-formulas's documentation!
    boolean/index
    convex_geometry/index
    probability/index
+   information/index
 
 Indices and tables
 ==================
