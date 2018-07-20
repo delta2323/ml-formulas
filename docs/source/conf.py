@@ -175,5 +175,5 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-import tex_macro
-mathjax_preamble = tex_macro.macro
+# import tex_macro
+# mathjax_preamble = tex_macro.macro
