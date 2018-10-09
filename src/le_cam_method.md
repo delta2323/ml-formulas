@@ -36,14 +36,12 @@ $$
 とおくと，$f_i$ は非負可測関数で $f_1 + f_2 \geq 1$ が成り立つ．したがって，
 
 $$
-\begin{align}
 2 \sup_{P \in \mathcal{P}} \mathbb{E}_P d(\hat{\theta}, \theta(P))
-& \geq \mathbb{E}_1 d(\hat{\theta}, \theta_1) +
-\mathbb{E}_2 d(\hat{\theta}, \theta_2) \\\
-& \geq 2 \delta \inf_{f_i \geq 0, f_1 + f_2 = 1}
-(\mathbb{E}_1 f_1 + \mathbb{E}_2 f_2 ) \\\
-& = 2 \delta (1 - d_{\mathrm{TV}}(P_1, P_2)).
-\end{align}
+\geq \mathbb{E}_1 d(\hat{\theta}, \theta_1) +
+\mathbb{E}_2 d(\hat{\theta}, \theta_2) \\\\
+\geq 2 \delta \inf_{f_i \geq 0, f_1 + f_2 = 1}
+(\mathbb{E}_1 f_1 + \mathbb{E}_2 f_2 )
+= 2 \delta (1 - d_{\mathrm{TV}}(P_1, P_2)).
 $$
 
 
