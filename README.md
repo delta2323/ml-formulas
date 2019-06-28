@@ -1,5 +1,8 @@
 # ML Formulas
-理論計算科学・機械学習・統計学などに出てくる等式・不等式を集めていきます
+
+理論計算科学・機械学習・統計学などに出てくる等式・不等式を集めています．
+
+ページは[こちら](https://ml-formulas.readthedocs.io/ja/latest/index.html)
 
 # 運用方法
 
@@ -9,7 +12,6 @@ GitHubのIssueで管理しています．1つのトピック（不等式・等�
 
 * ほしいエントリがある場合は「Issues」から新たなIssueから希望を挙げてください（エントリのドラフトもあるとベターです）
 * 既にあるエントリで誤植を見つけた場合にはIssueとして登録するか，Pull Requestで修正を送ってください．
-
 
 # 今後やりたいこと
 
@@ -21,36 +23,36 @@ Contribution welcome!
 
 * 機械学習・統計的学習理論
   * 集中不等式
-    * [Markovの不等式](src/markov_inequality.md)
-    * [Chebyshevの不等式](src/chebyshev_inequality.md)
-    * [Chernoff bound](src/chernoff_bound.md)
-    * [Hoeffdingの不等式](src/hoeffding_inequality.md)
-    * [Bennetの不等式](src/bennett_inequality.md)
-    * [Bernsteinの不等式](src/bernstein_inequality.md)
-    * [Poisson分布の生成母関数とそのCramer変換](src/poisson_moment_generating_function.md)
-    * [Bernsteinの不等式](src/bernstein_inequality.md)
+    * [Markovの不等式](docs/source/concentration/markov_inequality.md)
+    * [Chebyshevの不等式](docs/source/concentration/chebyshev_inequality.md)
+    * [Chernoff bound](docs/source/concentration/chernoff_bound.md)
+    * [Hoeffdingの不等式](docs/source/concentration/hoeffding_inequality.md)
+    * [Bennetの不等式](docs/source/concentration/bennett_inequality.md)
+    * [Bernsteinの不等式](docs/source/concentration/bernstein_inequality.md)
+    * [Poisson分布の生成母関数とそのCramer変換](docs/source/concentration/poisson_moment_generating_function.md)
+    * [Bernsteinの不等式](docs/source/concentration/bernstein_inequality.md)
     * Azuma's inequality
-    * [最大不等式](src/maximal_inequality.md)
-    * [Dudleyのエントロピーバウンド](src/dudley_entropy_bound.md)
-    * [Sudakov minoration](src/sudakov_minoration.md)
-    * [Generic chaining](src/generic_chaining.md)
+    * [最大不等式](docs/source/concentration/maximal_inequality.md)
+    * [Dudleyのエントロピーバウンド](docs/source/concentration/dudley_entropy_bound.md)
+    * [Sudakov minoration](docs/source/concentration/sudakov_minoration.md)
+    * [Generic chaining](docs/source/concentration/generic_chaining.md)
     * Talagrand's inequality
     * Symmetrization
-    * [Efron--Stein不等式](src/efron_stein.md)
-    * [エントロピーの劣加法性](src/subadditivity_of_entropy.md)
+    * [Efron--Stein不等式](docs/source/concentration/efron_stein.md)
+    * [エントロピーの劣加法性](docs/source/concentration/subadditivity_of_entropy.md)
     * Log-Sobolev inequality
-    * [Gauss集中不等式](src/gaussian_concentration_inequality.md)
+    * [Gauss集中不等式](docs/source/concentration/gaussian_concentration_inequality.md)
     * Modified Log-Sobolev inequality
     * McDiarmid's inequality (Bounded difference inequality)
   * Donsker's variational representation of KL divergence
   * ブーリアン関数
-    * [Hypercontractive不等式](src/hypercontractive_inequality.md)
+    * [Hypercontractive不等式](docs/source/boolean/hypercontractive_inequality.md)
     * Kahn--Kalai--Linial（KKL）不等式
     * Majority is the stablest定理
   * Isoperimetric inequality
   * 凸幾何学
-    * [Brunn-Minkowskiの不等式](src/brunn_minkowski_inequality.md)
-    * [Prekopa-Leindlerの不等式](src/prekopa_leindler_inequality.md)
+    * [Brunn-Minkowskiの不等式](docs/source/convex_geometry/brunn_minkowski_inequality.md)
+    * [Prekopa-Leindlerの不等式](docs/source/convex_geometry/prekopa_leindler_inequality.md)
     * Andersonの不等式
   * 情報理論
     * [Fanoの不等式](src/fano_inequality.md)
@@ -66,10 +68,10 @@ Contribution welcome!
     * Luo-Tseng error bound
     * Lojasiewicz不等式
 * 確率論
-  * [Slepianの不等式](src/slepian_inequality.md)
+  * [Slepianの不等式](docs/source/probability/slepian_inequality.md)
   * Gaussian correlation inequality
-  * [Berry--Esseenの定理](src/berry_esseen_univariate.md)
-  * [Dvoretzky--Kiefer--Wolfowitzの不等式](src/dvoretzky_kiefer_wolfowitz_inequality.md)
+  * [Berry--Esseenの定理](docs/source/probability/berry_esseen_univariate.md)
+  * [Dvoretzky--Kiefer--Wolfowitzの不等式](docs/source/probability/dvoretzky_kiefer_wolfowitz_inequality.md)
 * 確率過程・確率微分方程式
   * Doobの不等式
   * Borel-Cantelliの定理

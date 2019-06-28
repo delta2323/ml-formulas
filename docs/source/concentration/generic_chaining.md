@@ -8,7 +8,7 @@ $(T, d)$ を距離空間とする．
 
 $T$ の部分集合 $A$ の直径を $\mathrm{diam}(A) = \sup\_{s, t \in A} d(s, t)$ と表す．
 
-$T$ の分割 $\mathcal{A}$ とは，互いに交わらない $T$ の有限個の部分集合の族 $\mathcal{A} = \\{ A\_1, \ldots, A\_m \\}$ で，$\bigcup\_i A\_i = T$ となるものである．$T$ の分割 $\mathcal{A}$ および点 $t \in T$ に対して，$\mathcal{A}(t)$ によって $t$ を含む $\mathcal{A}$ の唯一の要素を表すとする．
+$T$ の分割 $\mathcal{A}$ とは，互いに交わらない $T$ の有限個の部分集合の族 $\mathcal{A} = \{ A_1, \ldots, A_m \}$ で，$\bigcup\_i A\_i = T$ となるものである．$T$ の分割 $\mathcal{A}$ および点 $t \in T$ に対して，$\mathcal{A}(t)$ によって $t$ を含む $\mathcal{A}$ の唯一の要素を表すとする．
 
 $T$ の分割からなる列 $\mathcal{A}_0, \mathcal{A}\_1, \ldots$ がネストしているとは，任意の $k \geq 1$ に対して $\mathcal{A}\_{k}$ が $\mathcal{A}\_{k-1}$ の細分になっていることをいう．
 分割の列 $\mathcal{A}\_{0}, \mathcal{A}\_{1}, \ldots$ がTalagrand列 (または許容列) であるとは，任意の $k \geq 1$ に対して，
